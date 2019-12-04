@@ -43,7 +43,7 @@ public class SQLDatabaseConnection {
 				queryArea.setLineWrap(true);
 				
 				
-				final JTextArea resultArea = new JTextArea(DEFAULT_RESULT,9,100);
+				final JTextArea resultArea = new JTextArea(DEFAULT_RESULT,11,100);
 				resultArea.setWrapStyleWord(true);
 				resultArea.setLineWrap(true);
 				resultArea.setEditable(false);
